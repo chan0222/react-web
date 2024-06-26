@@ -1,0 +1,429 @@
+2024-06-18 10:40:16.718973 +0900 (0x00003e74) [info] [CrashDump] Starting handler at C:/Program Files/4KDownload/4kvideodownloaderplus
+2024-06-18 10:40:16.780272 +0900 (0x00003e74) [info] [app_Gui] [BaseTranslator] Using locale ko_KR
+2024-06-18 10:40:16.780272 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:1
+2024-06-18 10:40:16.781265 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000001] Start http downloader https://dl.4kdownload.com/app/settings/4kvideodownloaderplus.crash.json
+2024-06-18 10:40:16.782268 +0900 (0x00004534) [info] [http] [HttpDownloaderImpl_0000000000000002] Start http downloader https://dl.4kdownload.com/app/advertisement/videodownloaderplus.xml
+2024-06-18 10:40:16.783259 +0900 (0x00003e74) [info] [SoftwareUpdate] [Manager] appId=4kvideodownloaderplus, appName=4K Video Downloader+, appVersion=1.7.0.0096, appCast=https://dl.4kdownload.com/app/appcast/videodownloaderplus.xml
+2024-06-18 10:40:16.783259 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:1 was created
+2024-06-18 10:40:16.783259 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:2
+2024-06-18 10:40:16.783259 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000003] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=&cid=b11d3097-affb-4643-884e-69b88b63027d&t=event&an=4K%20Video%20Downloader%2B&av=1.7.0.0096&ec=Application&ea=Run&el=Less%20than%2010&ev=1&z=10005
+2024-06-18 10:40:16.783259 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:2 was created
+2024-06-18 10:40:16.783259 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:3
+2024-06-18 10:40:16.784257 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000005] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=&cid=b11d3097-affb-4643-884e-69b88b63027d&t=event&an=4K%20Video%20Downloader%2B&av=1.7.0.0096&ec=Application&ea=Platform&el=windows-64-10.0.19045&cprop=%7B%22platform%22%3A%22windows-64%22%2C%22platform_version%22%3A%2210.0.19045%22%2C%22run_platform%22%3A%22windows-64%22%7D&z=16625
+2024-06-18 10:40:16.784257 +0900 (0x00003e74) [info] [http] [HttpDownloaderImpl_0000000000000004] Start http downloader https://dl.4kdownload.com/app/settings/4kvideodownloaderplus.settings.json
+2024-06-18 10:40:16.784257 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:3 was created
+2024-06-18 10:40:16.784257 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:4
+2024-06-18 10:40:16.784257 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000006] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=&cid=b11d3097-affb-4643-884e-69b88b63027d&t=event&an=4K%20Video%20Downloader%2B&av=1.7.0.0096&ec=License&ea=State&el=free&cprop=%7B%22license%22%3A%22free%22%7D&z=3357
+2024-06-18 10:40:16.784257 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:4 was created
+2024-06-18 10:40:16.916565 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:5
+2024-06-18 10:40:16.916565 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000007] Start http downloader https://dl.4kdownload.com/app/news/videodownloaderplus.json
+2024-06-18 10:40:16.916565 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:5 was created
+2024-06-18 10:40:16.917562 +0900 (0x00003e74) [warning] Qt WebEngine resources not found at C:/Program Files/4KDownload/4kvideodownloaderplus/resources. Trying parent directory... (:0, )
+2024-06-18 10:40:16.918561 +0900 (0x00003e74) [warning] Installed Qt WebEngine locales directory not found at location C:/Program Files/4KDownload/4kvideodownloaderplus/translations\qtwebengine_locales. Trying application directory... (:0, )
+2024-06-18 10:40:17.041159 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:40:17.189357 +0900 (0x00004fdc) [info] Enter WorkerGraphManager::checkingThread
+2024-06-18 10:40:17.189357 +0900 (0x000034ec) [info] Enter WorkerGraphManager::statisticsLogThread
+2024-06-18 10:40:17.195066 +0900 (0x00003e74) [info] [downloader] [HttpDownloaderQueue_0000022BAB30B850] Set max active count 1 -> 4
+2024-06-18 10:40:17.195066 +0900 (0x00003e74) [info] [SimpleExecutionQueue] [Queue[ConversionQueue]_0000022BAB3145E0] Set max active count 1 -> 4
+2024-06-18 10:40:17.196063 +0900 (0x00003e74) [info] [http] [HttpDownloaderImpl_0000000000000008] Start http downloader http://sa.openmedia.co:8018/getinfo
+2024-06-18 10:40:17.196063 +0900 (0x0000103c) [info] EventDispatcher is started
+2024-06-18 10:40:17.196063 +0900 (0x00003e74) [info] [downloader] [HttpDownloaderQueue_0000022BAB30B850] Set max active count 4 -> 2
+2024-06-18 10:40:17.196063 +0900 (0x00003e74) [info] [SimpleExecutionQueue] [Queue[ConversionQueue]_0000022BAB3145E0] Set max active count 4 -> 2
+2024-06-18 10:40:17.197074 +0900 (0x00003e74) [info] [http] [HttpDownloaderImpl_0000000000000009] Start http downloader http://sa.openmedia.co:8018/getinfo
+2024-06-18 10:40:17.197074 +0900 (0x00003e74) [info] [downloader] [HttpDownloaderQueue_0000022BAB30B850] Set max active count 2 -> 2
+2024-06-18 10:40:17.197074 +0900 (0x00003e74) [info] [SimpleExecutionQueue] [Queue[ConversionQueue]_0000022BAB3145E0] Set max active count 2 -> 2
+2024-06-18 10:40:17.197074 +0900 (0x00003e74) [info] [http] [HttpDownloaderImpl_000000000000000A] Start http downloader http://sa.openmedia.co:8018/getinfo
+2024-06-18 10:40:17.197074 +0900 (0x00003e74) [info] Creating new io context pool '' with 6 thread(s)
+2024-06-18 10:40:17.197074 +0900 (0x00004d9c) [info] AsioContext::IoContext::threadFunc started
+2024-06-18 10:40:17.198013 +0900 (0x00003010) [info] AsioContext::IoContext::threadFunc started
+2024-06-18 10:40:17.198013 +0900 (0x00004bd8) [info] AsioContext::IoContext::threadFunc started
+2024-06-18 10:40:17.198013 +0900 (0x00003080) [info] AsioContext::IoContext::threadFunc started
+2024-06-18 10:40:17.198013 +0900 (0x00002ef4) [info] AsioContext::IoContext::threadFunc started
+2024-06-18 10:40:17.198013 +0900 (0x00002340) [info] AsioContext::IoContext::threadFunc started
+2024-06-18 10:40:17.198013 +0900 (0x00002340) [info] Cannot start subscription graph: subscriptions update is disabled
+2024-06-18 10:40:17.200013 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:6
+2024-06-18 10:40:17.200013 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_000000000000000B] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=&cid=b11d3097-affb-4643-884e-69b88b63027d&t=event&an=4K%20Video%20Downloader%2B&av=1.7.0.0096&ec=Notification&ea=Clear%20Outdated&el=Count&ev=0&z=22102
+2024-06-18 10:40:17.200013 +0900 (0x00003e74) [info] [From QtDebugMsg] threaded render loop (:0, )
+2024-06-18 10:40:17.200013 +0900 (0x00003e74) [info] [From QtDebugMsg] Using sg animation driver (:0, )
+2024-06-18 10:40:17.201009 +0900 (0x00003e74) [info] [From QtDebugMsg] Animation Driver: using vsync: 16.67 ms (:0, )
+2024-06-18 10:40:17.201009 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:6 was created
+2024-06-18 10:40:17.431099 +0900 (0x000024ec) [info] User external ip info: {"ip":"59.0.87.169"}
+2024-06-18 10:40:17.439078 +0900 (0x000024ec) [info] User external ip info: {"ip":"59.0.87.169"}
+2024-06-18 10:40:17.448054 +0900 (0x000024ec) [info] User external ip info: {"ip":"59.0.87.169"}
+2024-06-18 10:40:18.068491 +0900 (0x00003e74) [info] [Feedback] [NewsCenter] downloaded
+2024-06-18 10:40:18.083446 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:7
+2024-06-18 10:40:18.083446 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_000000000000000C] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=&cid=b11d3097-affb-4643-884e-69b88b63027d&t=event&an=4K%20Video%20Downloader%2B&av=1.7.0.0096&ec=Application&ea=Resolution&el=1920x1080&z=25246
+2024-06-18 10:40:18.083446 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:7 was created
+2024-06-18 10:40:18.083446 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:8
+2024-06-18 10:40:18.083446 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_000000000000000D] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=&cid=b11d3097-affb-4643-884e-69b88b63027d&t=event&an=4K%20Video%20Downloader%2B&av=1.7.0.0096&ec=Application&ea=LogicalDPI&el=96&z=6434
+2024-06-18 10:40:18.083446 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:8 was created
+2024-06-18 10:40:18.097409 +0900 (0x00003744) [info] [From QtDebugMsg] Using sg animation driver (:0, )
+2024-06-18 10:40:18.097409 +0900 (0x00003744) [info] [From QtDebugMsg] Animation Driver: using vsync: 16.67 ms (:0, )
+2024-06-18 10:40:18.109378 +0900 (0x00003744) [info] [From QtDebugMsg] opengl texture atlas dimensions: 1024x1024 (:0, )
+2024-06-18 10:40:18.109378 +0900 (0x00003744) [info] [From QtDebugMsg] R/G/B/A Buffers:   8 8 8 8 (:0, )
+2024-06-18 10:40:18.109378 +0900 (0x00003744) [info] [From QtDebugMsg] Depth Buffer:      24 (:0, )
+2024-06-18 10:40:18.109378 +0900 (0x00003744) [info] [From QtDebugMsg] Stencil Buffer:    8 (:0, )
+2024-06-18 10:40:18.109378 +0900 (0x00003744) [info] [From QtDebugMsg] Samples:           0 (:0, )
+2024-06-18 10:40:18.109378 +0900 (0x00003744) [info] [From QtDebugMsg] GL_VENDOR:         Intel (:0, )
+2024-06-18 10:40:18.109378 +0900 (0x00003744) [info] [From QtDebugMsg] GL_RENDERER:       Intel(R) UHD Graphics 730 (:0, )
+2024-06-18 10:40:18.109378 +0900 (0x00003744) [info] [From QtDebugMsg] GL_VERSION:        4.6.0 - Build 31.0.101.5333 (:0, )
+2024-06-18 10:40:18.110375 +0900 (0x00003744) [info] [From QtDebugMsg] GL_EXTENSIONS:    GL_3DFX_texture_compression_FXT1 GL_AMD_depth_clamp_separate GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_cl_event GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_robustness_isolation GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_separate_stencil GL_EXT_abgr GL_EXT_bgra GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_clip_volume_hint GL_EXT_compiled_vertex_array GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_object GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_memory_object GL_EXT_memory_object_win32 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_polygon_offset_clamp GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_semaphore GL_EXT_semaphore_win32 GL_EXT_separate_specular_color GL_EXT_shader_framebuffer_fetch GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_compression_s3tc GL_EXT_texture_edge_clamp GL_EXT_texture_env_add GL_EXT_texture_env_combine GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod_bias GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_IBM_texture_mirrored_repeat GL_INTEL_conservative_rasterization GL_INTEL_fragment_shader_ordering GL_INTEL_framebuffer_CMAA GL_INTEL_map_texture GL_INTEL_multi_rate_fragment_shader GL_INTEL_performance_query GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_shader_subgroup GL_KHR_shader_subgroup_arithmetic GL_KHR_shader_subgroup_ballot GL_KHR_shader_subgroup_basic GL_KHR_shader_subgroup_clustered GL_KHR_shader_subgroup_quad GL_KHR_shader_subgroup_shuffle GL_KHR_shader_subgroup_shuffle_relative GL_KHR_shader_subgroup_vote GL_KHR_texture_compression_astc_ldr GL_NV_blend_square GL_NV_conditional_render GL_NV_primitive_restart GL_NV_texgen_reflection GL_NV_timeline_semaphore GL_OVR_multiview GL_SGIS_generate_mipmap GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod GL_SUN_multi_draw_arrays GL_WIN_swap_hint WGL_EXT_swap_control (:0, )
+2024-06-18 10:40:18.110375 +0900 (0x00003744) [info] [From QtDebugMsg] Max Texture Size: 16384 (:0, )
+2024-06-18 10:40:18.110375 +0900 (0x00003744) [info] [From QtDebugMsg] Debug context:    false (:0, )
+2024-06-18 10:40:21.358770 +0900 (0x00003e74) [info] Agreement accepted
+2024-06-18 10:40:21.358770 +0900 (0x00003e74) [info] [AuthView::logIn] Creating invisible window
+2024-06-18 10:40:21.358770 +0900 (0x00003e74) [info] [AuthView::logIn] Logging in at https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Dm%26hl%3Den%26next%3D%252F&hl=en
+2024-06-18 10:40:21.380713 +0900 (0x00003e74) [info] [From QtDebugMsg] opengl texture atlas dimensions: 512x512 (:0, )
+2024-06-18 10:40:22.935946 +0900 (0x00003e74) [info] [AuthView::logIn] Accepting the invisible window. Logins status - 0
+2024-06-18 10:40:26.782941 +0900 (0x00003e74) [info] [SoftwareUpdate] [Manager] checking
+2024-06-18 10:40:26.782941 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:9
+2024-06-18 10:40:26.783900 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_000000000000000E] Start http downloader https://dl.4kdownload.com/app/appcast/videodownloaderplus.xml
+2024-06-18 10:40:26.783900 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:9 was created
+2024-06-18 10:40:26.920637 +0900 (0x00003e74) [info] [SoftwareUpdate] [Manager] parsing
+2024-06-18 10:40:26.921634 +0900 (0x00003e74) [info] [SoftwareUpdate] [Manager] no update available
+2024-06-18 10:40:46.920968 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:10
+2024-06-18 10:40:46.920968 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_000000000000000F] Start http downloader https://dl.4kdownload.com/app/messages/videodownloaderplus.xml
+2024-06-18 10:40:46.922003 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:10 was created
+2024-06-18 10:40:47.083344 +0900 (0x00003e74) [info] [Feedback] [MessageCenter] downloaded
+2024-06-18 10:40:47.083344 +0900 (0x00003e74) [info] [Feedback] [MessageCenter] extracting messages
+2024-06-18 10:40:47.084342 +0900 (0x00003e74) [info] [Feedback] [MessageCenter] extracted 2 messages
+2024-06-18 10:40:47.085380 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:11
+2024-06-18 10:40:47.085380 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000010] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=&cid=b11d3097-affb-4643-884e-69b88b63027d&t=event&an=4K%20Video%20Downloader%2B&av=1.7.0.0096&ec=Notification&ea=MessageShow&el=Compress%20Multiple%20Images%20in%20Bulk%20With%20Our%20New%20App%7C0017f4fe-a12c-4688-afd4-ce8e1811ad34&z=13357
+2024-06-18 10:40:47.085380 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:11 was created
+2024-06-18 10:40:47.117821 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:12
+2024-06-18 10:40:47.117821 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000011] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=&cid=b11d3097-affb-4643-884e-69b88b63027d&t=event&an=4K%20Video%20Downloader%2B&av=1.7.0.0096&ec=Notification&ea=Show&el=Compress%20Multiple%20Images%20in%20Bulk%20With%20Our%20New%20App%7Cpinned%7Csystem%7C0017f4fe-a12c-4688-afd4-ce8e1811ad34&z=18354
+2024-06-18 10:40:47.117821 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:12 was created
+2024-06-18 10:41:17.350970 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:42:17.645584 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:43:17.928240 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:44:18.213431 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:45:18.493677 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:46:18.784310 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:47:19.033869 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:48:19.336120 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:49:19.617739 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:50:19.875723 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:51:20.154307 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:52:20.456224 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:53:20.762513 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:54:21.072967 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:55:21.379578 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:55:47.112378 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:13
+2024-06-18 10:55:47.112378 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000012] Start http downloader https://dl.4kdownload.com/app/messages/videodownloaderplus.xml
+2024-06-18 10:55:47.113379 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:13 was created
+2024-06-18 10:55:47.275127 +0900 (0x00003e74) [info] [Feedback] [MessageCenter] downloaded
+2024-06-18 10:55:47.275127 +0900 (0x00003e74) [info] [Feedback] [MessageCenter] extracting messages
+2024-06-18 10:55:47.276131 +0900 (0x00003e74) [info] [Feedback] [MessageCenter] extracted 2 messages
+2024-06-18 10:55:47.283344 +0900 (0x00003e74) [info] [Feedback] [MessageCenter] Filtered message "Compress Multiple Images in Bulk With Our New App" (shown=1 && !message.permanent=0)
+2024-06-18 10:55:47.283344 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:14
+2024-06-18 10:55:47.283344 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000013] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=&cid=b11d3097-affb-4643-884e-69b88b63027d&t=event&an=4K%20Video%20Downloader%2B&av=1.7.0.0096&ec=Notification&ea=MessageShow&el=Want%20to%20Save%20a%20TikTok%20Video%20You%20or%20Other%20Users%20Liked%3F%7Ce311103a-dd34-4277-bf9f-404ac959bd74&z=26942
+2024-06-18 10:55:47.283344 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:14 was created
+2024-06-18 10:55:47.301971 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:15
+2024-06-18 10:55:47.302985 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000014] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=&cid=b11d3097-affb-4643-884e-69b88b63027d&t=event&an=4K%20Video%20Downloader%2B&av=1.7.0.0096&ec=Notification&ea=Show&el=Want%20to%20Save%20a%20TikTok%20Video%20You%20or%20Other%20Users%20Liked%3F%7Cpinned%7Csystem%7Ce311103a-dd34-4277-bf9f-404ac959bd74&z=27720
+2024-06-18 10:55:47.302985 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:15 was created
+2024-06-18 10:56:21.652502 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:57:21.951534 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:58:22.244849 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 10:59:22.530545 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:00:22.828552 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:01:23.107850 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:02:03.531105 +0900 (0x00003e74) [info] [From QtDebugMsg] animation driver switched to timer mode (:0, )
+2024-06-18 11:02:23.414928 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:03:23.688921 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:04:23.991497 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:05:24.296979 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:06:24.611320 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:07:24.923695 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:08:25.261188 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:09:25.537864 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:10:25.806303 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:11:26.070591 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:12:26.344090 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:13:26.621320 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:14:26.898818 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:15:27.238659 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:16:27.484558 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:17:27.744038 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:18:28.060904 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:19:28.350927 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:20:28.644569 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:21:28.913549 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:22:29.587104 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:23:29.885959 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:24:30.174908 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:25:30.434545 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:26:30.772616 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:27:31.126471 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:28:31.419673 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:29:31.705658 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:30:31.978383 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:31:32.255908 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:32:32.597378 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:33:32.858137 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:34:33.113261 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:35:33.453109 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:36:33.718262 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:37:33.996826 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:38:34.343583 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:39:34.605298 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:40:18.066748 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:16
+2024-06-18 11:40:18.067697 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000015] Start http downloader https://dl.4kdownload.com/app/news/videodownloaderplus.json
+2024-06-18 11:40:18.068728 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:16 was created
+2024-06-18 11:40:18.232536 +0900 (0x00003e74) [info] [Feedback] [NewsCenter] downloaded
+2024-06-18 11:40:34.888422 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:41:35.176719 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:42:35.450564 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:43:35.797968 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:44:36.068287 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:45:36.361691 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:46:36.644983 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:47:36.916841 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:48:37.166811 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:49:37.446591 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:50:37.714774 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:51:38.389794 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:52:38.723439 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:53:39.017064 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:54:39.313011 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:55:39.602571 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:56:39.880180 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:57:40.190691 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:58:40.490875 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 11:59:40.797211 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:00:41.101961 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:01:41.407601 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:02:41.671805 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:03:41.955791 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:04:42.258163 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:05:42.539748 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:06:42.831652 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:07:43.119375 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:08:43.413000 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:09:43.711209 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:10:44.005624 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:11:44.272404 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:12:44.522460 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:13:44.796877 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:14:45.079278 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:15:45.362604 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:16:45.650629 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:17:45.941998 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:18:46.236844 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:19:46.511674 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:20:46.784191 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:21:47.069785 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:22:47.352758 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:23:47.614789 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:24:47.908011 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:25:48.196523 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:26:48.482328 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:27:48.756411 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:28:49.037685 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:29:49.310942 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:30:49.615293 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:31:49.924642 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:32:50.217529 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:33:50.544825 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:34:50.829363 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:35:51.106939 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:36:51.393446 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:37:51.684333 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:38:51.961920 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:39:52.223516 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:40:18.235838 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:17
+2024-06-18 12:40:18.235838 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000016] Start http downloader https://dl.4kdownload.com/app/news/videodownloaderplus.json
+2024-06-18 12:40:18.237827 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:17 was created
+2024-06-18 12:40:18.386347 +0900 (0x00003e74) [info] [Feedback] [NewsCenter] downloaded
+2024-06-18 12:40:52.824510 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:41:53.087900 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:42:53.366721 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:43:53.617704 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:44:53.907308 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:45:54.192725 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:46:54.479856 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:47:54.786467 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:48:55.089486 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:49:55.382498 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:50:55.707380 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:51:56.059001 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:52:56.348710 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:53:56.650585 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:54:57.000388 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:55:57.305454 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:56:57.585543 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:57:57.874579 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:58:58.202819 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 12:59:58.475632 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:00:58.752135 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:01:59.034569 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:02:59.321819 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:03:59.630995 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:04:59.885889 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:06:00.182528 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:07:00.477445 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:08:00.803152 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:09:01.086425 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:10:01.354721 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:11:01.655190 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:12:01.931024 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:13:02.211848 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:14:02.512698 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:15:02.775882 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:16:03.038723 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:17:03.310263 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:18:03.626847 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:19:03.929868 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:20:04.194981 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:21:04.528773 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:22:04.812089 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:23:05.095135 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:24:05.425814 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:25:05.694128 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:26:05.957258 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:27:06.227823 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:28:06.508976 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:29:06.794581 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:30:07.045105 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:31:07.335282 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:32:07.623418 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:33:07.926103 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:34:08.218332 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:35:08.519667 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:36:08.798888 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:37:09.064407 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:38:09.349310 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:39:09.622023 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:40:09.903389 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:40:16.806959 +0900 (0x00003e74) [info] [SoftwareUpdate] [Manager] checking
+2024-06-18 13:40:16.808961 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:18
+2024-06-18 13:40:16.808961 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000017] Start http downloader https://dl.4kdownload.com/app/appcast/videodownloaderplus.xml
+2024-06-18 13:40:16.808961 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:18 was created
+2024-06-18 13:40:16.982155 +0900 (0x00003e74) [info] [SoftwareUpdate] [Manager] parsing
+2024-06-18 13:40:16.984152 +0900 (0x00003e74) [info] [SoftwareUpdate] [Manager] no update available
+2024-06-18 13:40:18.391358 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:19
+2024-06-18 13:40:18.391358 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000018] Start http downloader https://dl.4kdownload.com/app/news/videodownloaderplus.json
+2024-06-18 13:40:18.391358 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:19 was created
+2024-06-18 13:40:18.522728 +0900 (0x00003e74) [info] [Feedback] [NewsCenter] downloaded
+2024-06-18 13:41:10.224557 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:42:10.516237 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:43:10.785238 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:44:11.080255 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:45:11.363014 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:46:11.621388 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:47:11.885882 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:48:12.167251 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:49:12.460569 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:50:12.769651 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:51:13.042140 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:52:13.351055 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:53:13.608977 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:54:13.871120 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:55:14.127041 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:56:14.382686 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:57:14.642891 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:58:14.916224 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 13:59:15.193866 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:00:15.481760 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:01:15.773115 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:02:16.061345 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:03:16.322068 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:04:16.581726 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:05:16.882739 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:06:17.178498 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:07:17.468726 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:08:17.771320 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:09:18.044697 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:10:18.337144 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:11:18.641640 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:12:18.929563 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:13:19.182863 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:14:19.467370 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:15:19.748726 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:16:20.079543 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:17:20.366390 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:18:20.634013 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:19:20.910674 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:20:21.233894 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:21:21.538956 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:22:21.840883 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:23:22.149981 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:24:22.436956 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:25:22.755946 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:26:23.045219 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:27:23.329997 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:28:23.613603 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:29:23.905147 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:30:24.171489 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:31:24.463770 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:32:24.723543 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:33:25.005720 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:34:25.287103 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:35:25.581976 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:36:25.885839 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:37:26.152853 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:38:26.427482 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:39:26.684066 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:40:18.518442 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Creating queue element:20
+2024-06-18 14:40:18.518442 +0900 (0x00003efc) [info] [http] [HttpDownloaderImpl_0000000000000019] Start http downloader https://dl.4kdownload.com/app/news/videodownloaderplus.json
+2024-06-18 14:40:18.520396 +0900 (0x00003efc) [info] [http] [HttpRequestsPerformerQueueImpl_0000022BAB3246E0] Queue element:20 was created
+2024-06-18 14:40:18.679761 +0900 (0x00003e74) [info] [Feedback] [NewsCenter] downloaded
+2024-06-18 14:40:26.948805 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:41:27.229762 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:42:27.507269 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:43:27.807653 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:44:28.056186 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:45:28.346550 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:46:28.623365 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:47:28.922661 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:48:29.219385 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:49:29.540286 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:50:29.848989 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:51:30.159230 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:52:30.451867 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:53:30.733029 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:54:31.032838 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:55:31.308398 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:56:31.604718 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:57:31.867675 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:58:32.206621 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 14:59:32.470630 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:00:32.748991 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:01:33.039159 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:02:33.317780 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:03:33.615745 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:04:33.878046 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:05:34.165022 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:06:34.472416 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:07:34.754831 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:08:35.036933 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:09:35.327622 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:10:35.606582 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:11:35.881970 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:12:36.174467 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:13:36.453928 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:14:36.741750 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:15:37.040446 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:16:37.342989 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:17:37.647639 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:18:37.981498 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:19:38.259678 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:20:38.526734 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:21:38.801379 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:22:39.127918 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:23:39.424820 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:24:39.692270 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:25:39.989143 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:26:23.450407 +0900 (0x00003e74) [warning] Retrying to obtain clipboard. (:0, )
+2024-06-18 15:26:26.211046 +0900 (0x00003e74) [warning] Retrying to obtain clipboard. (:0, )
+2024-06-18 15:26:40.275256 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:27:40.554941 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:28:40.819690 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:29:41.076191 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:30:41.429956 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:31:41.717758 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:32:42.011070 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:33:42.303643 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:34:42.597901 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:35:42.869092 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:36:43.163832 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
+2024-06-18 15:37:43.457622 +0900 (0x00004368) [info] [NetworkReachability] [Loop_0000005D3FAFED40] network is reachable
