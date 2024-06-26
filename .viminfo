@@ -1,0 +1,57 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 9.1.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# Viminfo version
+|1,4
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Last Search Pattern:
+~Msle0~/\<store\>
+
+# 명령 행 히스토리 (새것부터 오래된 것 순):
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+? \<store\>
+|2,1,1715213034,,"\\<store\\>"
+? \.
+|2,1,1715213033,,"\\."
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 행 히스토리 (새것부터 오래된 것 순):
+
+# 디버그 행 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+""-	CHAR	0
+	e
+|3,1,36,0,1,0,1715213097,"e"
+
+# 파일 마크:
+'0  6  1  ~/Desktop/projects/kiosk/customer/.git/MERGE_MSG
+|4,48,6,1,1715213177,"~/Desktop/projects/kiosk/customer/.git/MERGE_MSG"
+
+# 점프목록 (새것이 먼저):
+-'  6  1  ~/Desktop/projects/kiosk/customer/.git/MERGE_MSG
+|4,39,6,1,1715213177,"~/Desktop/projects/kiosk/customer/.git/MERGE_MSG"
+-'  1  37  ~/Desktop/projects/kiosk/customer/.git/MERGE_MSG
+|4,39,1,37,1715213034,"~/Desktop/projects/kiosk/customer/.git/MERGE_MSG"
+-'  3  65  ~/Desktop/projects/kiosk/customer/.git/MERGE_MSG
+|4,39,3,65,1715213033,"~/Desktop/projects/kiosk/customer/.git/MERGE_MSG"
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/Desktop/projects/kiosk/customer/.git/MERGE_MSG
+	*	1715213177	0
+	"	6	1
+	^	3	1
+	.	4	0
+	+	1	2
+	+	2	0
+	+	1	0
+	+	4	0
